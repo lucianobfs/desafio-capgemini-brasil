@@ -39,6 +39,8 @@ Em aplicações Web, é mais utilizado um Regex seja no front-end ou no back-end
 Segue um Regex semelhante a questão 2 no Front-end:
 
 ![image](https://user-images.githubusercontent.com/91087085/154313694-6bc811f2-a5db-449f-9fb0-d24a52187d33.png)
+
+
 ^(?=.*?[A-Z])(?=.*?[a-z])(?=.*?[0-9])(?=.*?[#?!@$ %^&*-]).{6,}$
 
 No back-end ainda seria possível utilizar um passwordHash para armazenar de forma segura a senha de usuários no banco de dados. O que evitaria transtornos em possíveis vazamentos de banco de dados.
@@ -54,5 +56,11 @@ A questão é desafiadora, pois é necessário a utilização de vários método
 Pela matemática, anagramas de palavras são resultados da permutação da quantidade de letras. Ou seja: $P = (n)!\quad -  1$ 
 
 Porém, a questão é desafiadora e exige mais do que análise matemática de anagramas.
+
+#
+
+
+
+
 
 

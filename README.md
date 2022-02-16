@@ -24,13 +24,13 @@ A solução também pode ser verificada colando o código em JavaScript em algum
 
 ## Questão 1
 
-Link do REPLIT: https://replit.com/@lucianobfs/senha
+- Link do REPLIT: https://replit.com/@lucianobfs/senha
 
 A questão 1 é bem similar a algumas questões de lógica de programação e processamento de dados, matérias ministradas em faculdades de tecnologia. Entretanto, tem diferenças quanto ao formato da escada/pirâmide. Para resolver a questão é necessário conhecimento em loops. Nesse caso, foram necessários 3 loops, um deles mais externo e os outros para modificar os espaços e os asteriscos.
 
 ## Questão 2
 
-Link do REPLIT: https://replit.com/@lucianobfs/escada
+- Link do REPLIT: https://replit.com/@lucianobfs/escada
 
 A questão 2 se trata de um algorítmo para validação de senha, algo importante e bem comum nas aplicações web. Para isso, já que estamos tratando de condições para uma senha ser válida, é necessário bom entendimento de estruturas condicionais. Além disso, foi necessário o uso de estruturas de repetição e variáveis booleanas para verificar se as condições foram atendidas e assim analisar a quantidade de caracteres que devem ser adicionados para tornar a senha válida.
 
@@ -46,6 +46,8 @@ Segue um Regex semelhante a questão 2 no Front-end:
 No back-end ainda seria possível utilizar um passwordHash para armazenar de forma segura a senha de usuários no banco de dados. O que evitaria transtornos em possíveis vazamentos de banco de dados.
 
 ## Questão 3:
+
+- Link do REPLIT: https://replit.com/@lucianobfs/paresanagramas#index.js
 
 A questão 3 solicita a identificação de pares de anagramas. Apesar de não ter ficado claro em até quantas letras isso era válido, é possível solucionar essa questão por uma abordagem com métodos de Array e string.
 
